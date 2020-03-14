@@ -1,0 +1,28 @@
+{
+  "name": "codeceptjs-remote-maildev-helper",
+  "version": "0.0.1",
+  "description": "CodecsptJS helper for simple mail check using remote MailDev server",
+  "main": "remote-maildev-helper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuzjka/codeceptjs-remote-maildev-helper.git"
+  },
+  "keywords": [
+    "codeceptjs",
+    "maildev"
+  ],
+  "author": "Ihor Kuzmanenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuzjka/codeceptjs-remote-maildev-helper/issues"
+  },
+  "homepage": "https://github.com/kuzjka/codeceptjs-remote-maildev-helper#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "got": "^10.6.0"
+  },
+  "devDependencies": {}
+}
