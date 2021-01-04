@@ -4,7 +4,7 @@
 ## Installation
 
 ```shell script
-npm install --save-dev condeceptjs-remote-maildev-helper
+npm install --save-dev codeceptjs-remote-maildev-helper
 ```
 
 ## Running remote server
