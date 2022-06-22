@@ -22,7 +22,7 @@
   "homepage": "https://github.com/kuzjka/codeceptjs-remote-maildev-helper#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "got": "^10.6.0"
+    "got": "^11.8.5"
   },
   "devDependencies": {}
 }
